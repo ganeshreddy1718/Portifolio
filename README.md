@@ -1,2 +1,2 @@
 # Portifolio
-This is my offical web site to showcase my all skills and achievements.
+This is my official website to showcase my all skills and achievements.
